@@ -8,6 +8,13 @@
 
 ---
 
+### 🎯 Mục tiêu & Định hướng hiện tại
+- 🚀 Tập trung hoàn thiện toàn bộ tính năng và tối ưu cơ sở dữ liệu cho dự án **DAWNANIME**.
+- 📖 Tìm hiểu sâu hơn về bảo mật API (JWT, OAuth2) và triển khai ứng dụng lên các nền tảng Cloud.
+- 💼 Tìm kiếm cơ hội thực tập/làm việc vị trí **Full-Stack / Back-End Web Developer** tại khu vực Bắc Ninh / Bắc Giang.
+
+---
+
 ### 🛠️ Công nghệ và Công cụ sử dụng
 <p align="left">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
@@ -19,8 +26,16 @@
 
 ---
 
-### 📊 Thống kê GitHub
+### 🏆 Thành tích GitHub (Trophies)
 <p align="center">
-  <img src="" />
-  <img src="" />
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=DawNguyenn&theme=onedark&column=5&margin-w=15" alt="GitHub Trophies" />
+  </a>
+</p>
+
+---
+
+### 🎮 Hoạt động đóng góp (Contribution)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/DawNguyenn/DawNguyenn/output/github-contribution-grid-snake.svg" alt="Rắn ăn commit" />
 </p>
