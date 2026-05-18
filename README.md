@@ -3,15 +3,15 @@
 ### 👨‍💻 Giới thiệu về mình
 - 🎓 Sinh viên năm 4 ngành Công nghệ thông tin.
 - 💡 Đam mê lập trình **Full-stack Web Development** (React.js / Node.js / SQL Server).
-- 🚀 Đang phát triển dự án cá nhân: **DAWNANIME** - Nền tảng mạng xã hội dành cho Otaku.
-- 📫 Cách liên hệ với mình: [Facebook](https://www.facebook.com/OnlyNHD18/) | Email: nguyenhuudat1808@gmail.com
+- 🚀 Đang phát triển dự án cá nhân: **DAWNANIME** - Nền tảng mạng xã hội .
+- 📫 Liên hệ với mình: [Facebook](https://www.facebook.com/OnlyNHD18/) | Email: nguyenhuudat1808@gmail.com
 
 ---
 
 ### 🎯 Mục tiêu & Định hướng hiện tại
 - 🚀 Tập trung hoàn thiện toàn bộ tính năng và tối ưu cơ sở dữ liệu cho dự án **DAWNANIME**.
 - 📖 Tìm hiểu sâu hơn về bảo mật API (JWT, OAuth2) và triển khai ứng dụng lên các nền tảng Cloud.
-- 💼 Tìm kiếm cơ hội thực tập/làm việc vị trí **Full-Stack / Back-End Web Developer** tại khu vực Bắc Ninh / Bắc Giang.
+- 💼 Tìm kiếm cơ hội thực tập/làm việc vị trí **Full-Stack / Back-End Web Developer** .
 
 ---
 
@@ -26,7 +26,7 @@
 
 ---
 
-### 🏆 Thành tích GitHub (Trophies)
+### 🏆 Thành tích GitHub 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=DawNguyenn&theme=onedark&column=5&margin-w=15" alt="GitHub Trophies" />
