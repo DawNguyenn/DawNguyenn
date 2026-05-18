@@ -1,4 +1,4 @@
-# ![Banner](https://cdnv2.tgdd.vn/mwg-static/common/News/1585803/hinh-nen-vo-tri-03.jpg](https://drive.google.com/file/d/1PW82-eB-f_6gZMdZW7656MqDTKjW3r4D/view?usp=drive_link)
+# ![Banner]([https://cdnv2.tgdd.vn/mwg-static/common/News/1585803/hinh-nen-vo-tri-03.jpg](https://drive.google.com/file/d/1PW82-eB-f_6gZMdZW7656MqDTKjW3r4D/view?usp=drive_link](https://i.pinimg.com/736x/f3/8a/55/f38a55afc422a4b25d82bff47c1ce206.jpg))
 
 ### 👨‍💻 Giới thiệu về mình
 - 🎓 Sinh viên năm 4 ngành Công nghệ thông tin.
