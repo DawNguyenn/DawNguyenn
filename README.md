@@ -1,4 +1,4 @@
-# ![Banner](https://capsule-render.vercel.app/type=wave&color=gradient&height=180&section=header&text=Xin%20chào,%20mình%20là%20Đạt!&fontAlignY=40&fontSize=40)
+# ![Banner](https://cdnv2.tgdd.vn/mwg-static/common/News/1585803/hinh-nen-vo-tri-03.jpg)
 
 ### 👨‍💻 Giới thiệu về mình
 - 🎓 Sinh viên năm 4 ngành Công nghệ thông tin.
