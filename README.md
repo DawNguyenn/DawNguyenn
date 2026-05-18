@@ -34,8 +34,3 @@
 </p>
 
 ---
-
-### 🎮 Hoạt động đóng góp (Contribution)
-<p align="center">
-  <img src="https://raw.githubusercontent.com/DawNguyenn/DawNguyenn/output/github-contribution-grid-snake.svg" alt="Rắn ăn commit" />
-</p>
