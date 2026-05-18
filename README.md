@@ -1,5 +1,3 @@
-# ![Banner]()
-
 <img src="https://i.pinimg.com/736x/b3/3f/6d/b33f6d34edb3b7d469ca2e3b3decffb2.jpg" alt="Banner" style="width: 100vw; height: auto; object-fit: cover;">
 
 ### 👨‍💻 Giới thiệu về mình
